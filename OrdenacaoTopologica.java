@@ -157,7 +157,11 @@ public class OrdenacaoTopologica
 					j = j.prox;
 					
 				} while(j != null);
+				
+				System.out.print("null");
 
+			} else {
+				System.out.print("null");
 			}
 						
 			System.out.println();
